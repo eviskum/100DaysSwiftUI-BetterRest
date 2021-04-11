@@ -11,6 +11,7 @@
 		90947E9A261C755300B2558A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90947E99261C755300B2558A /* ContentView.swift */; };
 		90947E9C261C755600B2558A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 90947E9B261C755600B2558A /* Assets.xcassets */; };
 		90947E9F261C755600B2558A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 90947E9E261C755600B2558A /* Preview Assets.xcassets */; };
+		90947EAC261C7BC500B2558A /* SleepCalculator.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 90947EAB261C7BC500B2558A /* SleepCalculator.mlmodel */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		90947E9B261C755600B2558A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		90947E9E261C755600B2558A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		90947EA0261C755600B2558A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		90947EAB261C7BC500B2558A /* SleepCalculator.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = SleepCalculator.mlmodel; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 				90947E97261C755300B2558A /* BetterRestApp.swift */,
 				90947E99261C755300B2558A /* ContentView.swift */,
 				90947E9B261C755600B2558A /* Assets.xcassets */,
+				90947EAB261C7BC500B2558A /* SleepCalculator.mlmodel */,
 				90947EA0261C755600B2558A /* Info.plist */,
 				90947E9D261C755600B2558A /* Preview Content */,
 			);
@@ -140,6 +143,7 @@
 			files = (
 				90947E9A261C755300B2558A /* ContentView.swift in Sources */,
 				90947E98261C755300B2558A /* BetterRestApp.swift in Sources */,
+				90947EAC261C7BC500B2558A /* SleepCalculator.mlmodel in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
